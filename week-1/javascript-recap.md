@@ -17,7 +17,11 @@ React is een Javascript library waarin een hoop Javascript concepten terugkomen.
 - en meer.
 </details>
 
-## Uppercase a string
+## Opdrachten
+
+---
+
+### Uppercase a string
 Complete the function sayLouder such that it makes the text in uppercase.
 ```diff
 /**
@@ -56,10 +60,10 @@ Complete the function getPassingTests such that it returns all the test results 
  * @param {object[]} results
  */
 function getPassingTests(results) {
-+   console.log(results);
+    console.log(results);
     
     // Mijn oplossing
-    return results.filter(result => result.grade >= 10);
++   return results.filter(result => result.grade >= 10);
 }
 
 // sample usage (do not modify)
