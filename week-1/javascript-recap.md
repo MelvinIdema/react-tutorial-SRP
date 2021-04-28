@@ -75,3 +75,5 @@ const data = [{
 }]
 console.log(getPassingTests(data))
 ```
+---
+## [Ga naar: 2. React Intro](react-intro.md)

@@ -107,3 +107,6 @@ Aangezien de cursus draait om de tussentijdse projecten wil ik hier niet teveel 
 De cursus draait namelijk om het bouwen van een Supermarkt Applicatie van scratch. Waarin de code niet voorgeschreven is. Je bouwt verder op de vorige projecten om als conclusie een grote applicatie te hebben.
 
 Daarom zal ik wel de opdracht volgen, maar hier mijn eigen draai aan geven. In plaats van een supermarkt applicatie, wordt het een webshop voor een bakker met Stripe Checkout Integratie.
+
+---
+## [Ga naar: 1. Intro](week-1/javascript-recap.md)
