@@ -123,7 +123,7 @@ console.log(createDivElement());
 
 ### React Elements 2
 Complete the createTitle function such that it creates a React Element that represents an h1 with the text Welcome to our supermarket and the class hero-title.
-```dif
+```diff
 +import React from 'react';
 
 function createTitle() {
