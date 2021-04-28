@@ -82,7 +82,7 @@ console.log(createCard());
 ```
 
 ## React.createElement
-In React gebruiken ze geen `document.createElement`. In plaats daarvan heeft het [React object](react-intro.md#het-react-object) een createElement property.
+In React gebruiken ze geen `document.createElement`. In plaats daarvan heeft het [React object](2-react-intro.md#het-react-object) een createElement property.
 
 In plaats van dat `document.createElement` een DOM element teruggeeft. Geeft `React.createElement` een object terug dat lijkt op:
 ```js
@@ -135,4 +135,4 @@ console.log(createTitle());
 ```
 
 ---
-## [Ga naar: 3. ReactDOM Intro](reactDOM-intro.md)
+## [Ga naar: 3. ReactDOM Intro](3-reactDOM-intro.md)

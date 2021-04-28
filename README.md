@@ -12,8 +12,8 @@ De cursus bestaat, voor nu, uit 85 hoofdstukken. Verdeeld over de volgende onder
 <details>
 <summary>Klik om uit te vouwen</summary>
 
-1. [Intro](week-1/javascript-recap.md)
-2. [React Intro](week-1/react-intro.md)
+1. [Intro](week-1/1-javascript-recap.md)
+2. [React Intro](week-1/2-react-intro.md)
 3. React DOM
 4. Intro to JSX
 5. JSX expressions
@@ -109,4 +109,4 @@ De cursus draait namelijk om het bouwen van een Supermarkt Applicatie van scratc
 Daarom zal ik wel de opdracht volgen, maar hier mijn eigen draai aan geven. In plaats van een supermarkt applicatie, wordt het een webshop voor een bakker met Stripe Checkout Integratie.
 
 ---
-## [Ga naar: 1. Intro](week-1/javascript-recap.md)
+## [Ga naar: 1. Intro](week-1/1-javascript-recap.md)

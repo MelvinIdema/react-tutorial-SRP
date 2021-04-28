@@ -80,4 +80,4 @@ const data = [{
 console.log(getPassingTests(data))
 ```
 ---
-## [Ga naar: 2. React Intro](react-intro.md)
+## [Ga naar: 2. React Intro](2-react-intro.md)
