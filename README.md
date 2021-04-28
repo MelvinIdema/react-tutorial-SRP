@@ -98,3 +98,12 @@ De cursus bestaat, voor nu, uit 85 hoofdstukken. Verdeeld over de volgende onder
 84. Optional: SuperM Dark theme
 85. Optional: Intro to class components
 </details>
+
+## Leerdoel
+Ik wil voor 31 mei 2021 de Javascript library React kunnen toepassen op een real-world project en een portfolio item hebben door middel van het volgen van een cursus in React. Dit hou ik bij door praktische kleine deliverables die het geleerde in de praktijk brengen in een GIT-repository te plaatsen.
+
+## Aanpak & Deliverables
+Aangezien de cursus draait om de tussentijdse projecten wil ik hier niet teveel van afwijken. Anders kan ik de cursus niet meer normaal volgen.
+De cursus draait namelijk om het bouwen van een Supermarkt Applicatie van scratch. Waarin de code niet voorgeschreven is. Je bouwt verder op de vorige projecten om als conclusie een grote applicatie te hebben.
+
+Daarom zal ik wel de opdracht volgen, maar hier mijn eigen draai aan geven. In plaats van een supermarkt applicatie, wordt het een webshop voor een bakker met Stripe Checkout Integratie.
