@@ -69,7 +69,7 @@ element.className = "container center";
 
 ---
 #### Document.createElement
-Complete the function createCard such that it returns a <div class="card"></div> element (not an HTML string)
+Complete the function createCard such that it returns a `<div class="card"></div>` element (not an HTML string)
 ```diff
 function createCard() {
 +   const div = document.createElement('div');
