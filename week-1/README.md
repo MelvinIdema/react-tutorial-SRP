@@ -1,18 +1,12 @@
 # Intro
-
-## Javascript Recap
-React is een Javascript library waarin een hoop Javascript concepten terugkomen. Zoals:
-- const / let
-- Template strings
-- Arrays/Objects
-- Array methods (filter, find, etc.)
-- Spread operator
-- array/object destructuring
-- import/export
-- arrow functions
-- lexical scope
-- Promises
-- Fetch API
-- en meer.
-
-### Uppercase a string
+- [Javascript Recap](javascript-recap.md#javascript-recap)
+    - [Uppercase a String](javascript-recap.md#uppercase-a-string)
+    - [Array.filter recap](javascript-recap.md#array.filter-recap)
+      - [Array Filter](javascript-recap.md#array-filter)
+      - [Array of Objects Filter](javascript-recap.md#array-of-objects-filter)
+- [React Intro](react-intro.md)
+    - [Install & Setup](react-intro.md#install--setup)
+    - [React Importeren](react-intro.md#react-importeren)
+    - [Het React object](react-intro.md#het-react-object)
+    - [Wat kost een import?](react-intro.md#wat-kost-een-import)
+    - [Opdrachten]()
