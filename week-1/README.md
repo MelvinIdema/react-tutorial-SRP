@@ -16,3 +16,5 @@
         - [React Elements 1](2-react-intro.md#react-elements-1)
         - [React Elements 2](2-react-intro.md#react-elements-2)
 - [ReactDOM Intro](3-reactDOM-intro.md)
+    - [Gebruik Ervan](3-reactDOM-intro.md#gebruik-ervan)
+    - [Het Root Element](3-reactDOM-intro.md#het-root-element)
