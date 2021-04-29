@@ -20,7 +20,7 @@ Dit repository is bedoeld als logboek voor de cursus https://react-tutorial.app.
 9. [Project I](/project-i/README.md)
 10. Pure Functions
 11. JSX advanced
-12. Project II
+12. [Project II](/project-ii/README.md)
 13. Array destructuring
 14. State with Hooks
 15. Changing state
@@ -28,7 +28,7 @@ Dit repository is bedoeld als logboek voor de cursus https://react-tutorial.app.
 17. Events
 18. Conditional state change
 19. Conditional rendering
-20. Project III
+20. [Project III](/project-iii/README.md)
 21. Multiple states
 22. Immutability
 23. array immutability
