@@ -12,15 +12,15 @@ De cursus bestaat, voor nu, uit 85 hoofdstukken. Verdeeld over de volgende onder
 <details>
 <summary>Klik om uit te vouwen</summary>
 
-1. [Intro](week-1/1-javascript-recap.md)
-2. [React Intro](week-1/2-react-intro.md)
-3. [React DOM](week-1/3-reactDOM-intro.md)
-4. [Intro to JSX](week-1/4-intro-to-jsx.md)
+1. Intro
+2. React Intro
+3. React DOM
+4. Intro to JSX
 5. JSX expressions
 6. JSX II
 7. Components
 8. Props
-9. Project I
+9. [Project I](/project-i/README.md)
 10. Pure Functions
 11. JSX advanced
 12. Project II
