@@ -1,4 +1,4 @@
-# Project Naam
+# Project II
 
 In dit project heb ik de UI-kit van het vorige project verbeterd.
 Ik heb geleerd dat je functies puur moet houden. Ze mogen dus geen "side effects" hebben. Props mogen niet aangepast worden. Maar je moet overal iets nieuws voor maken. De NPM Package `clsx` die het makkelijker maakt dynamische classes aan je React componenten toe te voegen. Hoe je door de ternary operator (of de nullish operator) een default attribute value kan toewijzen. En de ES6 spread operator om dynamische attributen toe te voegen. Dit heb ik toegepast in de code de oude UI-Kit.

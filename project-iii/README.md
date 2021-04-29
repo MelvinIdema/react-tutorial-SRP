@@ -1,4 +1,4 @@
-# Project Naam
+# Project III
 
 In dit project heb ik een start gemaakt met het eind project van de cursus: Een supermarkt app met Stripe integratie. Omdat ik samen met Arthur heb afgesproken om mijn eigen draai te geven aan dit project, heb ik deze aangepast naar een bakkerij.
 
