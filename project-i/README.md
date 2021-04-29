@@ -1,4 +1,17 @@
 # Project I
+In dit project heb ik de basisbeginselen van React toegepast. Ik heb geleerd over Javascript ES6 modules. De virtuele DOM van React. JSX, JSX Expressions, Componenten en Props. Vervolgens  heb ik dit toegepast om een UI Kit te maken. Bestaande uit een Link component, een Button component, een Container component en een Input component. 
+
+### De uitwerking
+URL: https://melvinidema.github.io/react-tutorial-SRP/project-i/build/
+
+Belangrijke punten:
+- React componenten schrijf je met een hoofdletter: `<Button />` i.p.v `<button>`. Hierdoor weet de JSX Compiler dat je een functie bedoeld en geen regulier HTML element. Dit vertaalt naar:
+```jsx
+// <Button />
+react.createElement(Button(), null, null);
+// <button>
+react.createElement("button", null, null);
+```
 
 ---
 ## De opdracht
@@ -38,4 +51,3 @@ Make sure to use the classes provided in the index.css. For example: `<Button />
 You do NOT need to import the index.css as it is automatically injected in the page.
 We also recommend that you experiment with the different Components & attributes and see how they work in the browser preview.
 
-### De uitwerking
