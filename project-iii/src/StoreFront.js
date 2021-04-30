@@ -9,11 +9,11 @@ export default function StoreFront() {
     const products = [{
         name: "Donut",
         description: "Perfectly round donut with glaze",
-        image: cupcake
+        image: donut
     }, {
         name: "Cupcake",
         description: "Tasty cupcake with a lot of sugar",
-        image: donut
+        image: cupcake
     }]
 
     return <div className="store-front">
