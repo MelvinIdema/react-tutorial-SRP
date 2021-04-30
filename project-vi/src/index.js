@@ -2,6 +2,7 @@ import React, {useState, useLayoutEffect} from "react";
 import {render} from "react-dom";
 
 import mapboxgl from "mapbox-gl/dist/mapbox-gl";
+import "mapbox-gl/dist/mapbox-gl.css";
 
 import "./index.css";
 
