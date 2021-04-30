@@ -37,7 +37,7 @@ Dit repository is bedoeld als logboek voor de cursus https://react-tutorial.app.
 26. State with objects
 27. Basic forms
 28. Accessible forms
-29. Project IV
+29. [Project IV](/project-iv/README.md)
 30. Create react app
 31. Passing functions
 32. Lifting state up
