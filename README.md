@@ -2,6 +2,7 @@
 ### Melvin Idema - 500829682
 ### Beoordelaar: Arthur van Schravendijk
 
+# TODO: FIX LINKS, REBUILD EVERY PROJECT.
 ---
 
 Dit repository is bedoeld als logboek voor de cursus https://react-tutorial.app. De cursus is opgedeeld in 85 hoofdstukken, met in totaal 16 projecten. Verdeeld als volgt:
