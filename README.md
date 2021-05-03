@@ -17,7 +17,7 @@ Dit repository is bedoeld als logboek voor de cursus https://react-tutorial.app.
 6. JSX II
 7. Components
 8. Props
-9. [Project I](/project-i/README.md)
+9. [Project I](/0-project-i/README.md)
 10. Pure Functions
 11. JSX advanced
 12. [Project II](/project-ii/README.md)
