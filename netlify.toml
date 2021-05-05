@@ -1,0 +1,4 @@
+[build]
+base = "15A-deployment-to-netlify"
+publish = "15A-deployment-to-netlify"
+command = "npm run build"

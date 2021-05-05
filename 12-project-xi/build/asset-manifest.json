@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-SRP/12-project-xi/build/static/css/main.92a18efc.chunk.css",
+    "main.js": "/react-tutorial-SRP/12-project-xi/build/static/js/main.d07df576.chunk.js",
+    "main.js.map": "/react-tutorial-SRP/12-project-xi/build/static/js/main.d07df576.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-SRP/12-project-xi/build/static/js/runtime-main.d5ca8e98.js",
+    "runtime-main.js.map": "/react-tutorial-SRP/12-project-xi/build/static/js/runtime-main.d5ca8e98.js.map",
+    "static/css/2.19072978.chunk.css": "/react-tutorial-SRP/12-project-xi/build/static/css/2.19072978.chunk.css",
+    "static/js/2.d34969ed.chunk.js": "/react-tutorial-SRP/12-project-xi/build/static/js/2.d34969ed.chunk.js",
+    "static/js/2.d34969ed.chunk.js.map": "/react-tutorial-SRP/12-project-xi/build/static/js/2.d34969ed.chunk.js.map",
+    "index.html": "/react-tutorial-SRP/12-project-xi/build/index.html",
+    "static/css/2.19072978.chunk.css.map": "/react-tutorial-SRP/12-project-xi/build/static/css/2.19072978.chunk.css.map",
+    "static/css/main.92a18efc.chunk.css.map": "/react-tutorial-SRP/12-project-xi/build/static/css/main.92a18efc.chunk.css.map",
+    "static/js/2.d34969ed.chunk.js.LICENSE.txt": "/react-tutorial-SRP/12-project-xi/build/static/js/2.d34969ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5ca8e98.js",
+    "static/css/2.19072978.chunk.css",
+    "static/js/2.d34969ed.chunk.js",
+    "static/css/main.92a18efc.chunk.css",
+    "static/js/main.d07df576.chunk.js"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-tutorial-SRP/11-project-x/build/static/css/main.ad1727ae.chunk.css",
+    "main.js": "/react-tutorial-SRP/11-project-x/build/static/js/main.371f1c09.chunk.js",
+    "main.js.map": "/react-tutorial-SRP/11-project-x/build/static/js/main.371f1c09.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-SRP/11-project-x/build/static/js/runtime-main.f6b5f2f4.js",
+    "runtime-main.js.map": "/react-tutorial-SRP/11-project-x/build/static/js/runtime-main.f6b5f2f4.js.map",
+    "static/js/2.b84c419a.chunk.js": "/react-tutorial-SRP/11-project-x/build/static/js/2.b84c419a.chunk.js",
+    "static/js/2.b84c419a.chunk.js.map": "/react-tutorial-SRP/11-project-x/build/static/js/2.b84c419a.chunk.js.map",
+    "index.html": "/react-tutorial-SRP/11-project-x/build/index.html",
+    "static/css/main.ad1727ae.chunk.css.map": "/react-tutorial-SRP/11-project-x/build/static/css/main.ad1727ae.chunk.css.map",
+    "static/js/2.b84c419a.chunk.js.LICENSE.txt": "/react-tutorial-SRP/11-project-x/build/static/js/2.b84c419a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6b5f2f4.js",
+    "static/js/2.b84c419a.chunk.js",
+    "static/css/main.ad1727ae.chunk.css",
+    "static/js/main.371f1c09.chunk.js"
+  ]
+}
