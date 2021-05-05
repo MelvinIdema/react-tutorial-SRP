@@ -1,6 +1,5 @@
 {
   "name": "project-i",
-  "homepage": "react-tutorial-SRP/project-i/build/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
