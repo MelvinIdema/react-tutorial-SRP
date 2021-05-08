@@ -37,11 +37,11 @@ When user is logged in, you should render the StoreFront Component as well as th
 StoreFront component
 Because we haven't learned how to get data from an API yet, we have hardcoded 2 products in the products array.
 
-In StoreFront, render 2 empty `<Product />` Components. (We haven't learned how to iterate yet, so simply write the `<Product />` twice).
-Each Product component should receive only one prop called details which contains one of the hardcoded product details. Give the first `<Product />` the first index of the array, and the second `<Product />` the 2nd index of the array.
+In StoreFront, render 2 empty `<Index />` Components. (We haven't learned how to iterate yet, so simply write the `<Index />` twice).
+Each Index component should receive only one prop called details which contains one of the hardcoded product details. Give the first `<Index />` the first index of the array, and the second `<Index />` the 2nd index of the array.
 
-#### Product component
-To maintain a good design (and not break the tests), make sure that you do not modify the HTML structure rendered from the Product component.
+#### Index component
+To maintain a good design (and not break the tests), make sure that you do not modify the HTML structure rendered from the Index component.
 Also, if it becomes annoying to have to re-login everytime, feel free to return `<StoreFront />` immediately from the `<App />` component, until you've got all the other tests passing.
 
 Render the product's image, title & description. You should now see 2 different products with 2 different data.

@@ -26,9 +26,9 @@ In the previous project, we hardcoded 2 products. In this one, we'll use state t
 - Make the products a state variable
 - Create controlled components for the name and the description textboxes in the form.
 - Make the form accessible
-- When the user submits the form, the new Product should be added to the list of products. A product should consist of: {id, name, description}. You can use the the length of the products as the id. (Note: this is only temporary until we learn about fetch and start working with an API)
+- When the user submits the form, the new Index should be added to the list of products. A product should consist of: {id, name, description}. You can use the the length of the products as the id. (Note: this is only temporary until we learn about fetch and start working with an API)
 - When the user submits the form, reset it (by emptying the fields). Note that you cannot (yet) change the focus on submit.
-- For each product in your products state, render a <Product /> by passing the relevant details prop, as well as the Delete button.
+- For each product in your products state, render a <Index /> by passing the relevant details prop, as well as the Delete button.
 - Remove (or hide) the <p>Add your first product</p> when there are products.
 - Make it possible to delete a product by clicking on the Delete button.
 

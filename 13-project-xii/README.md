@@ -34,7 +34,7 @@ Scroll down for the instructions.
     - Base URL: https://react-tutorial-demo.firebaseio.com/
     - Endpoint: products.json
 
-- Render a `<Product />` component for every product you get back from the API.
+- Render a `<Index />` component for every product you get back from the API.
 
 #### Optional
 Render the `<Loader />` while the fetch request is loading using the loading state from the useFetch hook.

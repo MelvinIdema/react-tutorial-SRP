@@ -18,11 +18,11 @@ Scroll down for the instructions.
 
 #### StoreFront component
 Fetch the list of products from https://react-tutorial-demo.firebaseio.com/products.json
-Render a `<Product />` component for every product you get back from the API.
+Render a `<Index />` component for every product you get back from the API.
 Pass the details of the product as a prop called details
 Make sure to handle network failures
-Product component
-To maintain a good design (and not break the tests), make sure that you do not modify the HTML structure rendered from the Product component.
+Index component
+To maintain a good design (and not break the tests), make sure that you do not modify the HTML structure rendered from the Index component.
 
 Render the product's image, title & description.
 ####Optional

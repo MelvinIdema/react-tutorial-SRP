@@ -15,7 +15,7 @@ Belangrijke punten:
 
 ---
 ## De opdracht
-### Product details page
+### Index details page
 The goal of this project is to be able to click on a product which will will take us to a product details page.
 For example, clicking on the Cheese product will take the user to /products/1.
 The user can then copy this URL and send it to a friend who will land on the the product details of the Cheese product.
@@ -41,7 +41,7 @@ Scroll down for the instructions.
 - Start by rendering the `<StoreFront />` component for the home page (/)
 - Then render the `<ProductDetails />` component for whenever the user visits a product page such as /products/1, /products/2, /products/3, etc.
 
-### Product component
+### Index component
 - Wrap the `<div className="product" />` with a link that takes the user to the corresponding product details page. For example, when the user clicks on the product with id 1, they should be redirected to /products/1.
 ProductDetails component
 - Link the back to home such that it takes you back to the homepage.
