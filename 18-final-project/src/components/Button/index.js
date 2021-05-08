@@ -1,4 +1,6 @@
 import clsx from "clsx";
+import PropTypes from "prop-types";
+import "./index.css";
 
 export default function Button(props) {
     const { label, outline, className, ...rest } = props;
