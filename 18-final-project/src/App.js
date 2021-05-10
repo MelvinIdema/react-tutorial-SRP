@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { Switch, Route } from "react-router-dom";
 import Navbar from "./compositions/Navbar/index.js";
 import Home from "./compositions/Home/index.js";
 import About from "./compositions/About/index.js";
@@ -9,7 +9,6 @@ import Cart from "./compositions/Cart/index.js";
 
 function App() {
   const [cart, setCart] = useState(function () {
-    const savedString = localStorage.getItem("cart");
     let savedCart = [];
     try {
       savedCart = JSON.parse(localStorage.getItem("cart")) || [];
