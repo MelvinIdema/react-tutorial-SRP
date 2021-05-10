@@ -63,7 +63,7 @@ Product.propTypes = {
        image: PropTypes.string,
        name: PropTypes.string,
        description: PropTypes.string,
-       price: PropTypes.string,
+       price: PropTypes.number,
     }).isRequired,
     /** A function to add a product to the cart */
     onProductAdd: PropTypes.func.isRequired,

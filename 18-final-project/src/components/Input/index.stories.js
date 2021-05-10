@@ -3,6 +3,7 @@ import Input from "./index.js";
 export default {
     title: 'Components/Input',
     component: Input,
+    decorators: [Story => <div style={{display: 'grid', placeItems: 'center', height: '100vh'}}>{Story()}</div> ],
 }
 
 const Template = (args) => <Input {...args}/>;

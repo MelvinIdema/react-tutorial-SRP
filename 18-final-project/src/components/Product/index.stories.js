@@ -4,7 +4,7 @@ import { BrowserRouter } from "react-router-dom";
 export default {
     title: "Components/Product",
     component: Product,
-    decorators: [Story => <BrowserRouter>{Story()}</BrowserRouter>],
+    decorators: [Story => <BrowserRouter><div style={{display: 'grid', placeItems: 'center', height: '100vh'}}>{Story()}</div></BrowserRouter>],
 }
 
 const Template = args => <Product {...args} />

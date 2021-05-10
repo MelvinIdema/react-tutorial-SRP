@@ -19,24 +19,24 @@ a:active {
   --black: #000;
 
   /* Primary colors*/
-  --primary-1: #2b8379;
-  --primary-2: #19a596;
-  --primary-3: #7fd1c7;
-  --primary-4: #7fd1c7;
-  --primary-5: #d0f3ef;
+  --primary-1: #F5BF4F;
+  --primary-2: #f6c561;
+  --primary-3: #f7cc72;
+  --primary-4: #fce9c1;
+  --primary-5: #fdefd3;
 
   /* Neutral colors */
-  --neutral-1: #2c2c2c;
-  --neutral-2: #434343;
-  --neutral-3: #94868b;
-  --neutral-4: #d9cfd3;
-  --neutral-5: #f2ecee;
+  --neutral-1: #939291;
+  --neutral-2: #acaaa9;
+  --neutral-3: #c4c2c1;
+  --neutral-4: #dddbd9;
+  --neutral-5: #f5f3f1;
 
-  /* Accent-blue colors */
-  --accent-1: #970e3d;
-  --accent-2: #c43464;
-  --accent-3: #de7699;
-  --accent-4: #e6c3ce;
+  /* Accent colors */
+  --accent-1: #bc5e4a;
+  --accent-2: #eb755d;
+  --accent-3: #ef917d;
+  --accent-4: #f3ac9e;
   --accent-5: #fff2f7;
 }
 
@@ -144,15 +144,6 @@ a:hover {
   display: grid;
   grid-template-columns: auto 1fr;
   grid-gap: 40px;
-}
-
-
-
-/* product details page */
-.product-details-image {
-  background-color: white;
-  padding: 10px;
-  border-radius: 20px;
 }
 
 .table {

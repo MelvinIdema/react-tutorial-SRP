@@ -11,6 +11,8 @@ import ProductDetailInfo from "./ProductDetailInfo.js";
 import ProductDetailNutrition from "./ProductDetailNutrition.js";
 import ProductDetailStorage from "./ProductDetailStorage.js";
 
+import "./index.css";
+
 export default function ProductDetails(props) {
     const [product, setProduct] = useState({});
     const { get } = useFetch("https://ikbenmel.vin/");
