@@ -17,22 +17,13 @@ export const Filled = Template.bind({});
 Filled.args = {
     cart: [
         {
-            "description":"200g cheese block",
-            "id":1,
-            "image":"https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/cheese.png",
-            "name":"Cheese",
-            "price":10,
-            "price_id": "price_1HuavSGuhXEITAut56IgndJf",
+            "description": "1 donut with chocolate sprinkles",
+            "id": 3,
+            "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660562/react-bakery-app/donut_osbr9l.png",
+            "name": "Donut",
+            "price": 3.49,
+            "price_id": "price_1IpbvEJiv8wpB3sqcESDTnm8",
             "quantity":6
         },
-        {
-            "description":"500g pineapple",
-            "id":4,
-            "image":"https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/pineapple.png",
-            "name":"Pineapple",
-            "price":3.25,
-            "price_id":"price_1HxW59GuhXEITAutCwoYZoOJ",
-            "quantity":5
-        }
     ],
 }

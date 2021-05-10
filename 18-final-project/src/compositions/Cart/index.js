@@ -5,8 +5,7 @@ import Button from "../../components/Button";
 
 import "./index.css";
 
-// TODO: Replace with your own publishable key
-const stripeLoadedPromise = loadStripe("pk_test_51HsqkCGuhXEITAut89vmc4jtjYd7XPs8hWfo2XPef15MFqI8rCFc8NqQU9WutlUBsd8kmNqHBeEmSrdMMpeEEyfT00KzeVdate");
+const stripeLoadedPromise = loadStripe("pk_test_51IpbnFJiv8wpB3squTZGNnlqyld7lislMBTj6kYJaIst2079ovi8Q5txXspM9PbluB5EQr16cuGudjrAgJJQ9wXD00BeSZrrGy");
 
 export default function Cart({ cart }) {
     const totalPrice = cart.reduce(

@@ -5,7 +5,7 @@
     "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660562/react-bakery-app/loafbread_n9nlci.png",
     "name": "White Bread",
     "price": 6,
-    "price_id": "price_1HuavSGuhXEITAut56IgndJf"
+    "price_id": "price_1IpbuMJiv8wpB3sq9xYVGCCZ"
   },
   {
     "description": "Sweet Macarons in purple and pink colors.",
@@ -13,7 +13,7 @@
     "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660562/react-bakery-app/macarons_wbpdjj.png",
     "name": "Macarons",
     "price": 8,
-    "price_id": "price_1HxVriGuhXEITAutt5KUKo2V"
+    "price_id": "price_1IpbumJiv8wpB3sqXgLI87xR"
   },
   {
     "description": "1 donut with chocolate sprinkles",
@@ -21,7 +21,7 @@
     "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660562/react-bakery-app/donut_osbr9l.png",
     "name": "Donut",
     "price": 3.49,
-    "price_id": "price_1HxW4YGuhXEITAutgcWugXH7"
+    "price_id": "price_1IpbvEJiv8wpB3sqcESDTnm8"
   },
   {
     "description": "Sweet Purplish Cupcake",
@@ -29,6 +29,6 @@
     "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660561/react-bakery-app/cupcake_glmbni.png",
     "name": "Cupcake",
     "price": 2.99,
-    "price_id": "price_1HxW59GuhXEITAutCwoYZoOJ"
+    "price_id": "price_1IpbvWJiv8wpB3sqisBEe9u4"
   }
 ]

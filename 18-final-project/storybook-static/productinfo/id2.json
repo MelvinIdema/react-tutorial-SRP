@@ -1,0 +1,15 @@
+{
+  "description": "Sweet Macarons in purple and pink colors.",
+  "id": 2,
+  "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660562/react-bakery-app/macarons_wbpdjj.png",
+  "name": "Macarons",
+  "nutrition": {
+    "carbs": 14.6,
+    "fat": 0,
+    "protein": 1.1,
+    "salt": 0.11
+  },
+  "price": 8,
+  "price_id": "price_1HxVriGuhXEITAutt5KUKo2V",
+  "storage": "Store in a dark, cool place like the fridge."
+}

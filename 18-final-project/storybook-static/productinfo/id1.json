@@ -1,0 +1,15 @@
+{
+  "description": "Loaf of White Bread",
+  "id": 1,
+  "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660562/react-bakery-app/loafbread_n9nlci.png",
+  "name": "White Bread",
+  "nutrition": {
+    "carbs": 13,
+    "fat": 1,
+    "protein": 2,
+    "salt": 0.49
+  },
+  "price": 6,
+  "price_id": "price_1HuavSGuhXEITAut56IgndJf",
+  "storage": "Store in a dry place on room temperature"
+}
