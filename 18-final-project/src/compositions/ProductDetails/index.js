@@ -13,7 +13,7 @@ import ProductDetailStorage from "./ProductDetailStorage.js";
 
 export default function ProductDetails(props) {
     const [product, setProduct] = useState({});
-    const { get } = useFetch("https://react-tutorial-demo.firebaseio.com/");
+    const { get } = useFetch("https://competent-boyd-99e336.netlify.app/");
     const params = useParams();
     const match = useRouteMatch();
 
