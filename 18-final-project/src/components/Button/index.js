@@ -21,3 +21,9 @@ export default function Button(props) {
     );
 }
 
+Button.propTypes = {
+    /** The label of the button */
+    label: PropTypes.string,
+    /** Is the button of type "outline"? */
+    outline: PropTypes.bool,
+}

@@ -1,0 +1,28 @@
+.table.table-cart thead {
+    background-color: var(--accent-1);
+}
+
+.table-cart {
+    text-align: center;
+}
+
+.table-cart tbody td:first-child {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding-left: 20px;
+}
+
+.th-product {
+    text-align: left;
+    padding-left: 25px;
+}
+
+.cart-highlight {
+    background-color: var(--accent-1);
+    color: white;
+}
+
+.pay-form {
+    padding-top: 30px;
+}

@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
-import Navbar from "./Navbar.js";
-import Home from "./Home.js";
-import About from "./About.js";
-import Products from "./Products.js";
-import ProductDetails from "./ProductDetails.js";
-import Cart from "./Cart.js";
+import Navbar from "./compositions/Navbar/index.js";
+import Home from "./compositions/Home/index.js";
+import About from "./compositions/About/index.js";
+import Products from "./compositions/Products/index.js";
+import ProductDetails from "./compositions/ProductDetails/index.js";
+import Cart from "./compositions/Cart/index.js";
 
 function App() {
   const [cart, setCart] = useState(function () {
@@ -59,8 +59,7 @@ function App() {
     }
   }
 
-  return (
-    <BrowserRouter>
+  return (<>
       <Navbar cart={cart} />
       <div className="container">
         <Switch>
@@ -85,7 +84,7 @@ function App() {
           </Route>
         </Switch>
       </div>
-    </BrowserRouter>
+    </>
   );
 }
 
