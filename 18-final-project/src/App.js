@@ -6,6 +6,7 @@ import About from "./compositions/About/index.js";
 import Products from "./compositions/Products/index.js";
 import ProductDetails from "./compositions/ProductDetails/index.js";
 import Cart from "./compositions/Cart/index.js";
+import Footer from "./compositions/Footer";
 
 function App() {
   const [cart, setCart] = useState(function () {
@@ -58,7 +59,7 @@ function App() {
     }
   }
 
-  return (<>
+  return (<div className="flex-wrapper">
       <Navbar cart={cart} />
       <div className="container">
         <Switch>
@@ -83,7 +84,8 @@ function App() {
           </Route>
         </Switch>
       </div>
-    </>
+      <Footer />
+    </div>
   );
 }
 

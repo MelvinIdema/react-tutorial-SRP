@@ -27,8 +27,8 @@ export default function Cart({ cart }) {
                 .redirectToCheckout({
                     lineItems: lineItems,
                     mode: "payment",
-                    successUrl: "https://superm.react-tutorial.app/",
-                    cancelUrl: "https://superm.react-tutorial.app/",
+                    successUrl: "https://ikbenmel.vin/",
+                    cancelUrl: "https://ikbenmel.vin/",
                     customerEmail: email,
                 })
                 .then((response) => {
@@ -86,7 +86,7 @@ export default function Cart({ cart }) {
                             </tbody>
                             <tfoot>
                             <tr>
-                                <th colSpan="2"></th>
+                                <th colSpan="2"/>
                                 <th className="cart-highlight">Total</th>
                                 <th className="cart-highlight">${totalPrice}</th>
                             </tr>
@@ -103,9 +103,10 @@ export default function Cart({ cart }) {
                                 onChange={(event) => setEmail(event.target.value)}
                                 value={email}
                                 type="email"
+                                autocomplete="email"
                                 required
                             />
-                            <Button type="submit" label="Pay now"></Button>
+                            <Button type="submit" label="Pay now"/>
                         </form>
                     </>
                 )}

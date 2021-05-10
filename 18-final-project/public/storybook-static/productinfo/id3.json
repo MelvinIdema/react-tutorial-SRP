@@ -1,15 +1,15 @@
 {
-  "description": "1 piece of tomato",
+  "description": "1 donut with chocolate sprinkles",
   "id": 3,
-  "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/tomato.png",
-  "name": "Tomato",
+  "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660562/react-bakery-app/donut_osbr9l.png",
+  "name": "Donut",
   "nutrition": {
-    "carbs": 4,
-    "fat": 0.2,
-    "protein": 1,
+    "carbs": 31,
+    "fat": 15,
+    "protein": 4,
     "salt": 0
   },
-  "price": 2.75,
-  "price_id": "price_1HxW4YGuhXEITAutgcWugXH7",
+  "price": 3.49,
+  "price_id": "price_1Ipc94Jiv8wpB3sqRZM39T6B",
   "storage": "Store in a cool place, away from the sun."
 }

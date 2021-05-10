@@ -1,15 +1,15 @@
 {
-  "description": "500g pineapple",
+  "description": "Sweet Purplish Cupcake",
   "id": 4,
-  "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/pineapple.png",
-  "name": "Pineapple",
+  "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660561/react-bakery-app/cupcake_glmbni.png",
+  "name": "Cupcake",
   "nutrition": {
-    "carbs": 22,
-    "fat": 2,
-    "protein": 1,
+    "carbs": 20,
+    "fat": 10.1,
+    "protein": 3.4,
     "salt": 0
   },
-  "price": 3.25,
-  "price_id": "price_1HxW59GuhXEITAutCwoYZoOJ",
+  "price": 2.99,
+  "price_id": "price_1Ipc9PJiv8wpB3sq5lLIcgnn",
   "storage": "Store in a cool place, away from the sun."
 }
