@@ -14,7 +14,7 @@ export default function About() {
                 </p>
             </div>
             <img
-                src="https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto,w_550/v1607770215/react-tutorial/supermarket/about.jpg"
+                src="https://images0.persgroep.net/rcs/bGXQ002ye98Z99fwlIjP33lbeAc/diocontent/175627791/_fitwidth/694/?appId=21791a8992982cd8da851550a453bd7f&quality=0.8"
                 height="275"
                 width="183"
                 className="rounded"

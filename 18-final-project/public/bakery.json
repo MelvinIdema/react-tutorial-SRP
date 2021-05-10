@@ -26,7 +26,7 @@
   {
     "description": "Sweet Purplish Cupcake",
     "id": 4,
-    "image": "Sweet Purplish Cupcakehttps://res.cloudinary.com/dywlap0vj/image/upload/v1620660561/react-bakery-app/cupcake_glmbni.png",
+    "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660561/react-bakery-app/cupcake_glmbni.png",
     "name": "Cupcake",
     "price": 2.99,
     "price_id": "price_1HxW59GuhXEITAutCwoYZoOJ"
