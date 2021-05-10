@@ -1,15 +1,15 @@
 {
-  "description": "200g cheese block",
+  "description": "Loaf of White Bread",
   "id": 1,
-  "image": "https://res.cloudinary.com/dbfn5lnvx/image/upload/q_auto/v1607769454/react-tutorial/products/final/cheese.png",
-  "name": "Cheese",
+  "image": "https://res.cloudinary.com/dywlap0vj/image/upload/v1620660562/react-bakery-app/loafbread_n9nlci.png",
+  "name": "White Bread",
   "nutrition": {
-    "carbs": 1.3,
-    "fat": 33,
-    "protein": 25,
-    "salt": 1
+    "carbs": 13,
+    "fat": 1,
+    "protein": 2,
+    "salt": 0.49
   },
-  "price": 10,
+  "price": 6,
   "price_id": "price_1HuavSGuhXEITAut56IgndJf",
-  "storage": "Store in a cool place (between 5°C and 15°C)"
+  "storage": "Store in a dry place on room temperature"
 }
