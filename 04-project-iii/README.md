@@ -17,7 +17,7 @@ Dit wist ik van te voren niet.
 - Icons: https://freebiesupply.com/free-vector/free-bakery-icons/
 
 ### De uitwerking
-URL: https://melvinidema.github.io/react-tutorial-SRP/project-iii/build/
+URL: https://melvinidema.github.io/react-tutorial-SRP/04-project-iii/build/
 
 Belangrijke punten:
 - Een React Hook mag je alleen gebruiken in de bovenste closure. Niet in een if statement, een handler of iets dergelijks. Anders krijg je problemen met de innerste werking van React. 

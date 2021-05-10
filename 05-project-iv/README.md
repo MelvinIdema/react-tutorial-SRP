@@ -6,7 +6,7 @@ Ik heb geleerd over toegankelijke formulieren in React, Arrays "immutable" aanpa
 
 
 ### De uitwerking
-URL: https://melvinidema.github.io/react-tutorial-SRP/project-iv/build/
+URL: https://melvinidema.github.io/react-tutorial-SRP/05-project-iv/build/
 
 Belangrijke punten:
 - Gebruik states alleen aan de ***top*** van je component. React moet dezelfde rangschikking houden om de states en hooks goed te kunnen bijhouden.

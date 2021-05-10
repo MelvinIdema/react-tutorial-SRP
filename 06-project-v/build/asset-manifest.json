@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-tutorial-SRP/project-v/build/static/css/main.21929386.chunk.css",
-    "main.js": "/react-tutorial-SRP/project-v/build/static/js/main.b4734654.chunk.js",
-    "main.js.map": "/react-tutorial-SRP/project-v/build/static/js/main.b4734654.chunk.js.map",
-    "runtime-main.js": "/react-tutorial-SRP/project-v/build/static/js/runtime-main.0d9f7fb9.js",
-    "runtime-main.js.map": "/react-tutorial-SRP/project-v/build/static/js/runtime-main.0d9f7fb9.js.map",
-    "static/js/2.b84c419a.chunk.js": "/react-tutorial-SRP/project-v/build/static/js/2.b84c419a.chunk.js",
-    "static/js/2.b84c419a.chunk.js.map": "/react-tutorial-SRP/project-v/build/static/js/2.b84c419a.chunk.js.map",
-    "index.html": "/react-tutorial-SRP/project-v/build/index.html",
-    "static/css/main.21929386.chunk.css.map": "/react-tutorial-SRP/project-v/build/static/css/main.21929386.chunk.css.map",
-    "static/js/2.b84c419a.chunk.js.LICENSE.txt": "/react-tutorial-SRP/project-v/build/static/js/2.b84c419a.chunk.js.LICENSE.txt"
+    "main.css": "/react-tutorial-SRP/06-project-v/build/static/css/main.21929386.chunk.css",
+    "main.js": "/react-tutorial-SRP/06-project-v/build/static/js/main.b3db78ca.chunk.js",
+    "main.js.map": "/react-tutorial-SRP/06-project-v/build/static/js/main.b3db78ca.chunk.js.map",
+    "runtime-main.js": "/react-tutorial-SRP/06-project-v/build/static/js/runtime-main.1caf2104.js",
+    "runtime-main.js.map": "/react-tutorial-SRP/06-project-v/build/static/js/runtime-main.1caf2104.js.map",
+    "static/js/2.b84c419a.chunk.js": "/react-tutorial-SRP/06-project-v/build/static/js/2.b84c419a.chunk.js",
+    "static/js/2.b84c419a.chunk.js.map": "/react-tutorial-SRP/06-project-v/build/static/js/2.b84c419a.chunk.js.map",
+    "index.html": "/react-tutorial-SRP/06-project-v/build/index.html",
+    "static/css/main.21929386.chunk.css.map": "/react-tutorial-SRP/06-project-v/build/static/css/main.21929386.chunk.css.map",
+    "static/js/2.b84c419a.chunk.js.LICENSE.txt": "/react-tutorial-SRP/06-project-v/build/static/js/2.b84c419a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d9f7fb9.js",
+    "static/js/runtime-main.1caf2104.js",
     "static/js/2.b84c419a.chunk.js",
     "static/css/main.21929386.chunk.css",
-    "static/js/main.b4734654.chunk.js"
+    "static/js/main.b3db78ca.chunk.js"
   ]
 }

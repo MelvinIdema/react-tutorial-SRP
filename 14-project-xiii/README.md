@@ -2,7 +2,7 @@
 In dit project heb ik aan de custom hook van Project XI een *ref* toegevoegd.
 
 ### De uitwerking
-URL: https://melvinidema.github.io/react-tutorial-SRP/13-project-xiii/build/
+URL: https://melvinidema.github.io/react-tutorial-SRP/14-project-xiii/build/
 
 #### Belangrijke punten:
 - Een ref gebruik je zelden, alleen als je document.querySelector() zou gebruiken.

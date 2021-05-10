@@ -4,7 +4,7 @@ In dit project heb ik verder gebouwd op project-vi door een dropdown toe te voeg
 Ik heb geleerd over conditioneel states aanpassen in een effect en het voorkomen van een infinite loop.
 
 ### De uitwerking
-URL: https://melvinidema.github.io/react-tutorial-SRP/project-vii/build/
+URL: https://melvinidema.github.io/react-tutorial-SRP/08-project-vii/build/
 
 Belangrijke punten:
 - Wanneer je state veranderd wordt je component bijgewerkt en je effecten weer opnieuw gerund. Als je state in een effect veranderd, kan dit ervoor zorgen dat het effect oneindig lang runt. Dit heet een "infinite-loop" en moet je voorkomen door effect dependencies te gebruiken.

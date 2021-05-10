@@ -5,7 +5,7 @@ In dit project heb ik het vorige project *gerefactored* naar een betere variant.
 Ik heb geleerd hoe je van een grote component kleinere kunt maken, hoe je je grote component als common ancestor kunt houden en states en functies kunt doorpassen aan je stateless componenten met props. En de beste manier om deze props een naam te geven. 
 
 ### De uitwerking
-URL: https://melvinidema.github.io/react-tutorial-SRP/project-v/build/
+URL: https://melvinidema.github.io/react-tutorial-SRP/06-project-v/build/
 
 Belangrijke punten:
 - Een React component kan ***Stateless*** en ***Stateful*** zijn. Stateless componenten beheren hun states niet zelf, maar krijgen die alleen van een *common ancestor* doorgegeven. Dit maakt je code makkelijker te onderhouden en te testen. Immers: Als je een component dezelfde data geeft, zal altijd dezelfde uitkomst moeten voortvloeien. Dit bekent niet dat ze niet interactief kunnen zijn. Door je eventHandler door te geven als *prop* kun je events naar boven sturen.

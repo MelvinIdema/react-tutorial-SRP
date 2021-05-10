@@ -3,7 +3,7 @@
 In dit project heb ik een map van MapBoxGL in de pagina geëmbed. Hier heb ik geleerd over een goede useCase voor useLayoutEffect. Vervolgens heb ik dit toegepast in door MapBoxGL te embedden in een React Applicatie.
 
 ### De uitwerking
-URL: https://melvinidema.github.io/react-tutorial-SRP/project-vi/build/
+URL: https://melvinidema.github.io/react-tutorial-SRP/07-project-vi/build/
 
 Belangrijke punten:
 - State updates met de useState hook zijn asynchronous. Ze worden gebundeld en in een keer uitgevoerd door React. Daarom kunnen twee op een volgende state updates dezelfde uitkomst hebben:

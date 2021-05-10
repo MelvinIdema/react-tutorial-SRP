@@ -5,7 +5,7 @@ In dit project heb ik het hoofdproject aangevuld met blijvende states.
 Ik heb geleerd over om items toe te voegen aan de localStorage en weer op te halen door middel van parseInt, `JSON.parse` en `JSON.stringify`
 
 ### De uitwerking
-URL: https://melvinidema.github.io/react-tutorial-SRP/project-viii/build/
+URL: https://melvinidema.github.io/react-tutorial-SRP/09-project-viii/build/
 
 Belangrijke punten:
 - Je kunt de localStorage API gebruiken om states blijvend op te slaan. De localStorage API slaat alles op in 'string' format en dien je dus te 'parsen' voordat je het kunt gebruiken.
