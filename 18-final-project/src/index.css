@@ -127,6 +127,7 @@ img {
   padding-left: 15px;
   padding-right: 15px;
 }
+
 .tabs .tab-active {
   border-bottom: 7px solid var(--primary-1);
 }
@@ -159,6 +160,7 @@ img {
 .table th {
   padding: 15px;
 }
+
 .table td {
   padding: 10px;
 }
