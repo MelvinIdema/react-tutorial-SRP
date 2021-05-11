@@ -27,8 +27,8 @@ export default function Cart({ cart }) {
                 .redirectToCheckout({
                     lineItems: lineItems,
                     mode: "payment",
-                    successUrl: "https://ikbenmel.vin/",
-                    cancelUrl: "https://ikbenmel.vin/",
+                    successUrl: "https://react.ikbenmel.vin/",
+                    cancelUrl: "https://react.ikbenmel.vin/",
                     customerEmail: email,
                 })
                 .then((response) => {

@@ -15,7 +15,7 @@ import "./index.css";
 
 export default function ProductDetails(props) {
     const [product, setProduct] = useState({});
-    const { get } = useFetch("https://ikbenmel.vin/");
+    const { get } = useFetch("https://react.ikbenmel.vin/");
     const params = useParams();
     const match = useRouteMatch();
 
