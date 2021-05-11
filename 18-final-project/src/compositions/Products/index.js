@@ -7,7 +7,7 @@ import Loader from "../../components/Loader/index.js";
 export default function Products(props) {
     const [products, setProducts] = useState([]);
     const { get, loading } = useFetch(
-        "https://ikbenmel.vin/"
+        "https://react.ikbenmel.vin/"
     );
 
     useEffect(() => {
