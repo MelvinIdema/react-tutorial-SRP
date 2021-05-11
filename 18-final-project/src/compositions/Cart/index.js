@@ -78,7 +78,7 @@ export default function Cart({ cart }) {
                                         <td width="20%">${product.price}</td>
                                         <td width="10%">{product.quantity}</td>
                                         <td width="25%">
-                                            <strong>${product.price * product.quantity}</strong>
+                                            <strong>${Math.trunc(product.price * product.quantity * 100) / 100}</strong>
                                         </td>
                                     </tr>
                                 );
@@ -88,7 +88,7 @@ export default function Cart({ cart }) {
                             <tr>
                                 <th colSpan="2"/>
                                 <th className="cart-highlight">Total</th>
-                                <th className="cart-highlight">${totalPrice}</th>
+                                <th className="cart-highlight">${Math.trunc(totalPrice * 100) / 100}</th>
                             </tr>
                             </tfoot>
                         </table>
