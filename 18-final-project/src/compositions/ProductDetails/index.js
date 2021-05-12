@@ -19,8 +19,6 @@ export default function ProductDetails(props) {
     const params = useParams();
     const match = useRouteMatch();
 
-    // TODO: Data binnenkrijgen via Props
-    // TODO: Compositions hernoemen naar Sections
     useEffect(() => {
         // Als params niet aanwezig is
         if(!params) return setProduct({
